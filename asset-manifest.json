@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robo-finder/static/css/main.6f086235.chunk.css",
+    "main.js": "/robo-finder/static/js/main.7af57df2.chunk.js",
+    "main.js.map": "/robo-finder/static/js/main.7af57df2.chunk.js.map",
+    "runtime-main.js": "/robo-finder/static/js/runtime-main.cb1eb03c.js",
+    "runtime-main.js.map": "/robo-finder/static/js/runtime-main.cb1eb03c.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robo-finder/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d2507867.chunk.js": "/robo-finder/static/js/2.d2507867.chunk.js",
+    "static/js/2.d2507867.chunk.js.map": "/robo-finder/static/js/2.d2507867.chunk.js.map",
+    "index.html": "/robo-finder/index.html",
+    "precache-manifest.4df0c488d0d765f654e2c1e6f3f4057a.js": "/robo-finder/precache-manifest.4df0c488d0d765f654e2c1e6f3f4057a.js",
+    "service-worker.js": "/robo-finder/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robo-finder/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.6f086235.chunk.css.map": "/robo-finder/static/css/main.6f086235.chunk.css.map",
+    "static/js/2.d2507867.chunk.js.LICENSE.txt": "/robo-finder/static/js/2.d2507867.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-finder/static/media/Pokemon Solid.4197aed6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb1eb03c.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d2507867.chunk.js",
+    "static/css/main.6f086235.chunk.css",
+    "static/js/main.7af57df2.chunk.js"
+  ]
+}
